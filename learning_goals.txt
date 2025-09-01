@@ -1,0 +1,4 @@
+ personal learning goals for backend development
+ 1. learn the setup backend
+ 2. Connect backend to database like mongodb.
+ 3. Create a project with backend and mongobd and create a project and share it on git hub 
